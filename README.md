@@ -1,6 +1,6 @@
-# 🚀 BlogSphere
+# 🚀 TaskManager
 
-A modern, feature-rich blogging platform built with cutting-edge technologies to provide an exceptional writing and reading experience.
+Here you can view your tasks, check progress, manage your boards, and stay focused on what matters most. Whether you're building projects, leading a team, or managing daily goals, everything starts here
 
 🌐 **Live Demo**: [TaskManager](https://test-task-frontend-jyje.onrender.com/)
 
@@ -18,21 +18,14 @@ A modern, feature-rich blogging platform built with cutting-edge technologies to
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **Framework**: Next.js 14 (React)
+- **Framework**: React.js
 - **Styling**: Tailwind CSS
-- **State Management**: Redux
-- **Form Handling**: React Hook Form
-- **Authentication**: Cookies
 - **UI Components**: Custom components with Tailwind
-- **Icons**: Lucide React and React Icons
-- **Animations**: Coustem css and Tailwind animation
 
 ### Backend
 - **API**: Node.js API Routes
 - **Database**: MongoDB
 - **ORM**: Mongoose
-- **Authentication**: JWT
-- **File Storage**: Cloudinary
 
 ## 🚀 Getting Started with backend
 
@@ -51,7 +44,7 @@ npm install
 npm run dev
 ```
 
-5. Open [http://localhost:5173](http://localhost:5173) in your browser
+5. Open [http://localhost:5173](http://localhost:300) in your browser
 
 ## 🚀 Getting Started with frontend
 
