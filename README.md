@@ -1,12 +1,78 @@
-# React + Vite
+# 🚀 BlogSphere
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, feature-rich blogging platform built with cutting-edge technologies to provide an exceptional writing and reading experience.
 
-Currently, two official plugins are available:
+🌐 **Live Demo**: [TaskManager](https://test-task-frontend-jyje.onrender.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 📝 Create, Read, Update, Delete (CRUD) operations for tasks
+- 🗂️ Board-based task organization
+- ✅ Task status management (To Do, In Progress, Done)
+- 🎯 Priority levels for tasks (Low, Medium, High)
+- 👥 Assign tasks to users
+- 🕒 Due date tracking
+- 🔍 Search and filter tasks by title
+- ⚙️ RESTful API with Express & MongoDB
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+### Frontend
+- **Framework**: Next.js 14 (React)
+- **Styling**: Tailwind CSS
+- **State Management**: Redux
+- **Form Handling**: React Hook Form
+- **Authentication**: Cookies
+- **UI Components**: Custom components with Tailwind
+- **Icons**: Lucide React and React Icons
+- **Animations**: Coustem css and Tailwind animation
+
+### Backend
+- **API**: Node.js API Routes
+- **Database**: MongoDB
+- **ORM**: Mongoose
+- **Authentication**: JWT
+- **File Storage**: Cloudinary
+
+## 🚀 Getting Started with backend
+
+1. Clone the repository
+```bash
+git clone https://github.com/AbhinavNauti-yl/test-task-backend.git
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+4. Run the development server
+```bash
+npm run dev
+```
+
+5. Open [http://localhost:5173](http://localhost:5173) in your browser
+
+## 🚀 Getting Started with frontend
+
+1. Clone the repository
+```bash
+git clone https://github.com/AbhinavNauti-yl/test-task-frontend.git
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+4. Run the development server
+```bash
+npm run dev
+```
+
+5. Open [http://localhost:5173](http://localhost:5173) in your browser
+---
+
+<div align="center">
+  Made with ❤️ by Your Abhinav Nautiyal
+</div> 
